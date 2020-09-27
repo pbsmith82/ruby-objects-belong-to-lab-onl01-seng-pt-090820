@@ -1,7 +1,7 @@
 class Song
     attr_accessor :artist, :title
 
-    def initialize
+    def initialize #initialize is not needed
         
     end
 
